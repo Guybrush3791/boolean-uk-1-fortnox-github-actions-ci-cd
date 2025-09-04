@@ -9,11 +9,9 @@ https://github.com/Guybrush3791/boolean-uk-1-fortnox-github-actions-ci-cd.git
 
 ## Instructions
 
-1. Fork this repository
-2. Clone your fork to your machine
-3. Open the project in *IntelliJ*
-4. Copy `application.yaml.example` to `application.yml` and fill out your *database* and *security* connection details
-5. Check that `build.gradle` contains the correct dependencies and rerun gradle sync to make it all update
+1. Create a new repository in your account with given name `boolean-uk-1-fortnox-github-actions-ci-cd`
+2. Create a new project and open it in *IntelliJ*
+3. Check that `build.gradle` contains the correct dependencies
 
 ## Activity
 ### Core
